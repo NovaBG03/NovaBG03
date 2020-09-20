@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on **H3 Website** ([repo](https://github.com/NovaBG03/H3))
+- 🌱 I’m currently learning **Web Development with Spring Boot and Angular 2**
+- 💬 Ask me about anything
+- 📫 You can reach me on **Instagram** [@nikik____](https://www.instagram.com/nikik____/)
+- ⚡ **Fun fact**: I'm still unemployed👔
 
 <!--
 **NovaBG03/NovaBG03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
